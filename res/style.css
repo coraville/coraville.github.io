@@ -434,7 +434,7 @@ li + li {
 .panel1,
 .panel2 {
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   background-repeat: no-repeat;
   height: 100%;
   border-radius: 5px;
